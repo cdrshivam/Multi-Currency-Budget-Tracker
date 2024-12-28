@@ -1,0 +1,22 @@
+Date,TransactionType,Amount,Currency,Category,Description
+01-12-2024,Income,2500.00,USD,Salary,Monthly salary deposit
+03-12-2024,Expense,120.50,GBP,Food,Grocery shopping at Tesco
+05-12-2024,Expense,50.75,USD,Transport,Uber rides
+06-12-2024,Income,200.00,EUR,Gift,Birthday gift from family
+07-12-2024,Expense,80.20,USD,Entertainment,Movie tickets and snacks
+08-12-2024,Expense,100.00,GBP,Health,Pharmacy bill
+09-12-2024,Income,300.00,USD,Freelance,Payment for freelance project
+10-12-2024,Expense,150.30,EUR,Utilities,Electricity bill payment
+11-12-2024,Expense,60.45,USD,Food,Dinner at a restaurant
+12-12-2024,Income,400.00,EUR,Investment,Return on mutual funds
+13-12-2024,Expense,200.99,GBP,Shopping,Clothing and accessories
+14-12-2024,Expense,30.60,USD,Transport,Gas refill
+15-12-2024,Income,1000.00,GBP,Salary,Performance bonus
+16-12-2024,Expense,70.00,EUR,Subscriptions,Streaming service subscription
+17-12-2024,Expense,40.75,GBP,Food,Snacks and coffee.
+18-12-2024,Expense,50.75,USD,Transport,Uber rides
+20-12-2024,Expense,40.75,GBP,Food,Snacks and coffee
+21-12-2024,Income,1500.00,GBP,Freelance,Am Trading
+21-12-2024,Expense,22.70,GBP,Transport,Oyster Card
+21-12-2024,Expense,15.00,GBP,Donation,gurudwara
+23-12-2024,Income,1500.00,EUR,Rent,

@@ -1,0 +1,16 @@
+Category,Category_Type,Budget_USD,Budget_GBP,Budget_EUR
+Freelance,Income,,,
+Grocery,Expense,50.00,100.00,20.00
+Donation,Expense,100.00,100.00,100.00
+Salary,Income,,,
+Gift,Income,,,
+Investment,Income,,,
+Food,Expense,300.00,250.00,200.00
+Transport,Expense,150.00,0.00,0.00
+Entertainment,Expense,100.00,0.00,0.00
+Health,Expense,120.00,100.00,0.00
+Utilities,Expense,0.00,0.00,200.00
+Shopping,Expense,0.00,300.00,0.00
+Subscriptions,Expense,0.00,0.00,70.00
+Rent,Income,,,
+
